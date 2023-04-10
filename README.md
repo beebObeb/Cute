@@ -31,16 +31,35 @@ How to compile?
 ---------------
     
     g++ cute.cpp -o cute 
+    
+How to use it?
+--------------
 
+    ./cute file_name speed 
+    
+file_name : the source code to view 
+    
+speed : delay in second, e.g 3 , defualt is 6
+    
+or 
+    
+first, move the compiled "cute" binary to /bin: 
+
+      sudo mv cute /bin 
+      
+then, 
+
+    cute file_name speed 
+   
 Credits 
 -------
-
-Done By   : Samuel Yirga
-
-Date      : Sun 09 Apr 2023 04:22:44 PM EDT
-
-Language  : cpp 
-
+-----------------------------------------------
+Done By   : Samuel Yirga                      -
+                                              -
+Date      : Sun 09 Apr 2023 04:22:44 PM EDT   -
+                                              -
+Language  : cpp                               -    
+-----------------------------------------------
 
 TODO
 ----
