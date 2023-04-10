@@ -13,11 +13,19 @@ simple, fun and creative way to view source codes.
 How does it work?
 -----------------
 
-It works by first reading a command from the command line argument then it parses the command and returns
+Cute works using these simple steps 
+  
+  step 1: cute accepts a command line arguemnts, namely filename and speed (in sec) 
+  
+         NB: If any error occurs it will give an approperiate message and terminates. 
 
-appropriate error message if any occurs, then reads the file and stores it in a variable if there are no error.
-
-afterwards, it clears the terminal window and animates the source code character by character.
+  step 2: reads the filename and stores it to a variable. 
+  
+  step 3: it clears the terminal window.
+  
+  step 4: it animates the stored source code. 
+  
+  step 5: it terminates. 
 
 How to compile?
 ---------------
@@ -26,11 +34,11 @@ g++ cute.cpp -o cute
 Credits 
 -------
 
-Done by : Samuel Yirga
+Done By   : Samuel Yirga
 
-Date : Sun 09 Apr 2023 04:22:44 PM EDT
+Date      : Sun 09 Apr 2023 04:22:44 PM EDT
 
-Language : cpp 
+Language  : cpp 
 
 
 TODO
