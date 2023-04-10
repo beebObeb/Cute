@@ -50,16 +50,6 @@ first, move the compiled "cute" binary to /bin:
 then, 
 
     cute file_name speed 
-   
-Credits 
--------
------------------------------------------------
-Done By   : Samuel Yirga                      -
-                                              -
-Date      : Sun 09 Apr 2023 04:22:44 PM EDT   -
-                                              -
-Language  : cpp                               -    
------------------------------------------------
 
 TODO
 ----
