@@ -29,7 +29,8 @@ Cute works using these simple steps
 
 How to compile?
 ---------------
-g++ cute.cpp -o cute 
+    
+    g++ cute.cpp -o cute 
 
 Credits 
 -------
@@ -44,4 +45,3 @@ Language  : cpp
 TODO
 ----
 Add a background music using a thread. 
-                               -------
