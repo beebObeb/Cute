@@ -15,7 +15,7 @@ How does it work?
 
 Cute works using these simple steps 
   
-  step 1: cute accepts a command line arguemnts, namely filename and speed (in sec) 
+  step 1: cute accepts a command line arguments, namely filename and speed (in sec) 
   
          NB: If any error occurs it will give an approperiate message and terminates. 
 
